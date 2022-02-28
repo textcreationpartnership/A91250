@@ -1,0 +1,1332 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prynne the Member reconciled to Prynne the barrester. Or An ansvver to a scandalous pamphlet, intituled, Prynne against Prynne. Wherein is a cleare demonstration, that William Prynne, utter barrester of Lincolnes Inne, in his soveraigne power of parliaments and kingdomes, is of the same judgement with, and no wayes contradictory to William Prynne Esquire, a Member of the House of Commons in his memento. Wherein the unlawfullnesse of the proceedings against the King, and altering the present government is manifested out of his former writings and all cavils and calumnies of this scandalous pamphleteer fully answered. / By William Prynne Esquire, barrester at law, and a Member of the House of Commons.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91250</idno>
+            <idno type="STC">Wing P4043</idno>
+            <idno type="STC">Thomason E558_5</idno>
+            <idno type="STC">ESTC R203281</idno>
+            <idno type="EEBO-CITATION">99863280</idno>
+            <idno type="PROQUEST">99863280</idno>
+            <idno type="VID">115470</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91250)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115470)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E558[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prynne the Member reconciled to Prynne the barrester. Or An ansvver to a scandalous pamphlet, intituled, Prynne against Prynne. Wherein is a cleare demonstration, that William Prynne, utter barrester of Lincolnes Inne, in his soveraigne power of parliaments and kingdomes, is of the same judgement with, and no wayes contradictory to William Prynne Esquire, a Member of the House of Commons in his memento. Wherein the unlawfullnesse of the proceedings against the King, and altering the present government is manifested out of his former writings and all cavils and calumnies of this scandalous pamphleteer fully answered. / By William Prynne Esquire, barrester at law, and a Member of the House of Commons.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+               </titleStmt>
+               <extent>26, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed anno Dom. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to "Prynne against Prinn", which Prynne attributes to Col. William Purefoy or possibly to George Abbot (p. 26).</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "4th June ".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Purefoy, William, 1580?-1659. --  Prynn against Prinn.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115470:1" rendition="simple:additions"/>
+            <p>PRYNNE
+The MEMBER reconciled to
+PRYNNE
+The <hi>BARRESTER.</hi> OR
+An Anſwer to a Scandalous
+Pamphlet, Intituled,
+PRYNNE againſt PRYNNE. Wherein is a cleare demonſtration, That <hi>William
+Prynne,</hi> Vtter Barreſter of <hi>Lincolnes Inne,</hi> in his
+<hi>Soveraigne Power of Parliaments and Kingdomes,</hi> is of
+the ſame Judgement with, and no wayes contra<g ref="char:EOLhyphen"/>dictory
+to <hi>William Prynne</hi> Eſquire, A Member of the
+<hi>Houſe of Commons</hi> in his MEMENTO. Wherein the unlawfullneſſe of the Proceedings againſt
+the King, and altering the preſent Government is manifeſted out
+of his former writings and all cavils and calumnies of this
+ſcandalous <hi>Pamphleteer</hi> fully Anſwered.</p>
+            <p>By <hi>William Prynne</hi> Eſquire, Barreſter at Law, and a
+<hi>Member of the</hi> Houſe of Commons.</p>
+            <q>
+               <bibl>Tit. 1. 12. 13.</bibl>
+               <p>One of themſelves, even a Prophet of their owne, ſaid; The Creti<g ref="char:EOLhyphen"/>ans
+ARE ALWAYES LYARS, evill beasts, ſlow Bellies:
+This witneſſe is true: wherefore rebuke them ſharply, that they
+may be ſound in the faith.</p>
+            </q>
+            <p>LONDON Printed <hi>Anno Dom.</hi> 1649.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:115470:2"/>
+            <pb facs="tcp:115470:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Curteous Reader,</salute>
+            </opener>
+            <p>MEeting this morning with a printed <hi>Pamphlet</hi> inti<g ref="char:EOLhyphen"/>tuled
+<hi>Prynne</hi> againſt <hi>Prynne;</hi> Or the anſweer of
+<hi>William Prynne,</hi> Vtter-Barreſter of <hi>Lincolnes Inne;</hi>
+to a <hi>pamphlet,</hi> lately publiſhed by <hi>william Prynne</hi> Eſq;
+a <hi>Member</hi> of the <hi>Houſe of Commons,</hi> intituled, <hi>a
+breif Memento to the preſent unparliamentary</hi> I <hi>un<g ref="char:EOLhyphen"/>to;</hi>
+touching their preſent intentions and proceedings to De<g ref="char:EOLhyphen"/>poſe
+and Execute <hi>CHALES STEVVARD,</hi> their lawfull Sove<g ref="char:EOLhyphen"/>raigne:
+with an <hi>Imprimatur</hi> of <hi>Theodore Iennings,
+Jan.</hi> 25. 1648. prefixed to it: written (as I am credibly
+informed) by a <hi>Colonell, a Member</hi> of the <hi>Commons
+Houſe,</hi> and one of his <hi>Majeſties</hi> preſent <hi>Judges,</hi> to repre<g ref="char:EOLhyphen"/>ſent
+and render me an <hi>Apoſtate,</hi> and <hi>turne-coate</hi> to the
+world (like himſelfe) and to gaine ſome colour for this unjuſt
+and <hi>illegall proceedings,</hi> (if poſsible) from my <hi>writings,</hi>
+who ever from my Soule abominated and declared againſt
+them as <hi>Jeſuiticall</hi> and <hi>Treaſonable</hi> in all my writings;
+<hi>I</hi> held it my duty to returne this ſhort and ſpeedy <hi>Anſwer</hi>
+thereunto; both to vindicate my wounded <hi>reputation,</hi> againſt
+all imputations of <hi>inconſtancy,</hi> and mutability in my <hi>prin<g ref="char:EOLhyphen"/>ciples,</hi>
+or <hi>actions,</hi> which have been alwayes loyall, uniform,
+ayming onely at the <hi>Common-good,</hi> not <hi>vertiginous,</hi>
+               <pb facs="tcp:115470:3"/>
+mutable; <hi>perfidious,</hi> and <hi>ſelfiſh,</hi> as his and his <hi>Confede<g ref="char:EOLhyphen"/>rates</hi>
+appeare to all men. It is Gods owne glory to be,<note n="a" place="margin">Mal. 3. 6.</note>
+               <hi>unchangeable,</hi>
+               <note n="b" place="margin">Iam, 1. 17.</note> 
+               <hi>unvariable,</hi> and <hi>without ſhadow
+of turning:</hi>
+               <note n="c" place="margin">Heb. 13. 8.</note> 
+               <hi>yeſterday, to day, and the ſame for
+ever.</hi>
+               <note n="d" place="margin">Cam<g ref="char:EOLhyphen"/>dens, Eli<g ref="char:EOLhyphen"/>zabeth, Speed, <hi>&amp;</hi> Hollin<g ref="char:EOLhyphen"/>ſhed.</note> SEMPER EADEM, was Qu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een <hi>Elizabeths</hi>
+Motto: and <hi>Semper idem,</hi> ſhall be (through Gods aſsiſ<g ref="char:EOLhyphen"/>ſtance)
+mine: who as I am commanded by God himſelfe, <hi>to
+be</hi>
+               <note n="e" place="margin">1 Cor 15. 58.</note> 
+               <hi>alwayes ſtedfaſt, unmoveable,</hi> and<note n="f" place="margin">Prov. 24<g ref="char:punc">▪</g> 21.</note> 
+               <hi>not to
+meddle</hi> (or confederate) <hi>with thoſe who are given to
+change;</hi> So, <hi>I</hi> trust, to manifeſt my ſelfe in this enſuing
+<hi>Tract,</hi> (in deſpite of calumny) to be still <hi>the ſame I was</hi>
+heretofore, both to the <hi>Kings</hi> and <hi>Kingdomes</hi> true and
+reall intereſt, which now lye both at <hi>Stake,</hi> likely to be <hi>ſpee<g ref="char:EOLhyphen"/>dily
+and irrecoverably</hi> loſt by ſome <hi>falſe</hi> rooking <hi>Game<g ref="char:EOLhyphen"/>ſters,</hi>
+who play badly for themſelves. Which is the feare and
+apprehenſion of their and his poore <hi>Countries</hi> freind, and
+<hi>wel-wiſher,</hi> (for which he is once more like to become a
+<hi>Martyr.)</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>January 29 <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>648.</date>
+               </dateline>
+               <signed>William Prynne</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:115470:3"/>
+            <head>PRYNNE the Member, re<g ref="char:EOLhyphen"/>conciled
+to PRYNNE the
+BARRESTER.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Ad the Compi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er of the late <hi>abſurd Pamphlet,</hi> inti<g ref="char:EOLhyphen"/>tuled
+<hi>Prynne againſt Prynne,</hi> as many <hi>guts</hi> in his
+<hi>Braines</hi> as he hath in his Belly or as much <hi>Honeſty</hi>
+&amp; <hi>Sincerity</hi> in his <hi>Head</hi> &amp; <hi>Heart,</hi> as he hath <hi>diſloy<g ref="char:EOLhyphen"/>alty</hi>
+&amp; inſincerity in both, he could <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot have been
+ſo <hi>irrationall</hi> or <hi>diſhoneſt,</hi> as to have publiſhed ſuch
+a peece of <hi>Folly</hi> and <hi>Non-ſence</hi> as this, inſtead of anſwering the <hi>Me<g ref="char:EOLhyphen"/>mento;</hi>
+which (though a Right worſhipfull <hi>Colonell</hi> and a <hi>Mem<g ref="char:EOLhyphen"/>ber</hi>
+too) yet he dares not encounter; his <hi>braines</hi> being all ſunke
+into his <hi>guts;</hi> &amp; his <hi>Pen</hi> as blunt as his <hi>ſword,</hi> that never yet ſlew nor
+wounded one <hi>Cavalier,</hi> though he hath <hi>gained</hi> and <hi>received</hi> ſome
+thouſand of pounds for his <hi>Grand Services</hi> in theſe late <hi>Warres.</hi>
+When this <hi>Great Champion</hi> dare op<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nly appeare in the field <hi>againſt</hi>
+any thing I have written, with his name thereto affixed, (of which
+it ſeemes he is aſhamed) I dare aſſure him, <hi>William Prynne,</hi> the
+<hi>Barreſter,</hi> or <hi>William Prynne</hi> the <hi>Member;</hi> will hand to hand en<g ref="char:EOLhyphen"/>counter.
+<hi>W. P.</hi> the <hi>Colonel,</hi> or <hi>W. P.</hi> the <hi>Burgeſſe</hi> of <hi>W.</hi> though
+a <hi>Gyant</hi> in bulke, but a <hi>Pigmy</hi> in moſt things elſe. But to come brief<g ref="char:EOLhyphen"/>ly
+to the matter.</p>
+            <p>It is very true, which he relates, <hi>pag.</hi> 1. That <hi>William Prynne</hi>
+Eſquire a Member of the <hi>Houſe of Commons,</hi> did in his <hi>Briefe Me<g ref="char:EOLhyphen"/>mento</hi>
+endeavour to <hi>diſwade the reſt of the Members ſitting in Par<g ref="char:EOLhyphen"/>liament
+from acting or proceeding againſt the King.</hi> And had they
+been ſo provident, wiſe and <hi>loyall,</hi> as to have given an eare to his
+ſeaſonable &amp; timely adviſe, they had never plunged themſelves &amp; the
+<hi>Kingdome</hi> into ſuch difficulties and <hi>confuſions</hi> as now they have done
+by their unjuſt and illegall tryall and condemnation of the King, to
+<pb n="6" facs="tcp:115470:4"/>
+               <hi>have His head ſevered from his ſhoulders,</hi> by a <hi>New erected high
+Court of Iuſtice;</hi> without authority, law, juſtice, or any legall or ju<g ref="char:EOLhyphen"/>diciall
+proceedings: for which they found no warrant nor preſident
+in <hi>William Prynne</hi> the <hi>Barreſter</hi> his <hi>Soverain Power of Parliaments
+&amp; Kingdomes;</hi> but many arguments againſt and dehortations from it.</p>
+            <p>
+               <hi>Firſt, The very Title of his Booke (had the</hi> purblinde Pamphle<g ref="char:EOLhyphen"/>ter
+<hi>peruſed it) might have deterred him and his fellow-members
+from ſuch a <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſuiticall and popiſh proceeding, to the eternall infamy
+and ſcandall of our Religion: it is this. <hi>The treachery and diſloy<g ref="char:EOLhyphen"/>alty
+of Papiſts to their Soveraignes</hi> in Doctrine and <hi>Practiſe,</hi>
+               </hi>
+together with the firſt part of the Soveraigne power of Parliaments
+and Kingdomes. Wherein the <hi>Traiterous Antimonarchicall Do<g ref="char:EOLhyphen"/>ctrines,
+practiſes</hi> and attempts <hi>of Papiſts</hi> upon the <hi>Perſons, Crowns</hi>
+Prerogatives of their <hi>Soveraignes:</hi> with the dangerous deſignes,
+affests and conſequences, of their preſent illegal arming, and acceſſe to
+the Kings perſon, by meanes of evil Councellors, are briefly diſcove<g ref="char:EOLhyphen"/>red.
+The Iuriſdiction, Power, priviledges claimed, exerciſed by our
+<hi>popiſh Parliaments,</hi> Prelates, Lords and Commons, in former ages,
+exactly paralleld with thoſe now claimed by <hi>the Lords and Com<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mons</hi>
+in this preſent Parliament: which are manifeſted to be <hi>far more
+loyall, dutifull,</hi> moderate; more conſiſtant with, leſſe invaſive <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>,
+and destructive to the pretended Soveraigne power and Prerogative
+of the King, then thoſe in former ages. And the High Court of Par<g ref="char:EOLhyphen"/>liament
+proved by pregnant Reaſons and Authorities; to be the moſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+ſoveraigne power of all other in this Kingdome, &amp;c. <hi>By <hi>William
+Prynne,</hi>
+               </hi> Utter-Barreſter of Lincolnes Inne, <hi>with this Licenſe of
+the Commons Houſe affixed to it. It is this ſecond day of</hi> May 1643.
+Ordered by the Committee <hi>of the Houſe of Commons in Parliament</hi>
+for printing: that this Booke <hi>intituled <hi>the Treachery and diſloyal<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y
+of papiſts to their Soveraigns</hi> &amp;c.</hi> be printed, <hi>by</hi> Michael Sparke
+<hi>Seino<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> Iohn White: <hi>Whence the Argument ſtands thus.</hi>
+            </p>
+            <p>Maſter <hi>Prynne</hi> the Barreſter, though he mainteined the High
+Court of Parliament to be the moſt Soveraigne Power of all others
+in this Kingdome; in his <hi>Soveraigne Power of Parliaments:</hi> yet he
+and the Committee of the Commons Houſe which authotized it,
+doth in the very Title of that Booke, in expreſſe termes condemne
+the <hi>Papiſts</hi> and <hi>popiſh Parliaments,</hi> of <hi>Treachery</hi> and <hi>Diſloyalty to
+their Soveraignes, both in Doctrine and practiſe,</hi> and of <hi>Trayterous
+Antimonarchiall <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ractiſes and attempts upon the Perſons, Crownes<g ref="char:punc">▪</g>
+                  <pb n="7" facs="tcp:115470:4"/>
+and Prerogatives of their Kings, in depoſing and murdering them.
+And manifeſts the Iuriſdiction, Power and priviledges claimed</hi> b<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+the <hi>Lords and Commons</hi> (not the Commons alone without the Lords,
+or the tenth part of the Commons under the Armies force, whiles
+the reſt are impriſoned and ſecluded by them) <hi>to be farre more loyall,
+dutifull and moderate then thoſe claimed and exerciſed by our popi<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+Parliaments, Prelates, Lords and Commons: Ergo,</hi> he refu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es <hi>Wil<g ref="char:EOLhyphen"/>liam,
+Prynne</hi> a Member of the Houſe of Commons: in his <hi>breife Me<g ref="char:EOLhyphen"/>mento
+to the preſent unparliamentary Iunto,</hi> wherein he diſwades
+them from their preſent diſlo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all proceedings to depoſe and execute
+<hi>Charles Stewad</hi> their lawfull King; as being a <hi>Ieſuiticall and popiſh
+practiſe,</hi> contrary to the practiſe and principles of all proteſtant Par<g ref="char:EOLhyphen"/>liaments;
+and the manifold Petitions, <hi>Remonſtrances, Declarations,
+Proteſtations, Solemne Leagues, Covenants</hi> and Engagement of this
+preſent Parliament. Whether <hi>Prynne</hi> be againſt <hi>Prynne</hi> in this, and
+whether <hi>Prynne</hi> the Barreſter &amp; <hi>Member,</hi> be not both unanimous a<g ref="char:EOLhyphen"/>gainſt
+their proceedings herein, let the world, &amp; this ignorant miſta<g ref="char:EOLhyphen"/>ken
+Pamphleter now judge.</p>
+            <p>Secondly, Mr. <hi>Prynne</hi> the <hi>Barreſter,</hi> in the foure firſt Pages of the
+<hi>firſt Part</hi> of his <hi>Soveraigne Power of Parliaments,</hi> in as poſitive and
+earneſt manner as can be, <hi>condemnes and cenſures the Ieſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>its and Pa<g ref="char:EOLhyphen"/>piſts
+doctrines and practiſes, in depoſing</hi> and murdering Kings and
+Princes, as <hi>treaſonable, damnable, wicked and hereticall:</hi> and parti<g ref="char:EOLhyphen"/>cularly,
+chargeth them for attempting <hi>to deſtroy and murder Hi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+Majesty and <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſterity,</hi> as well as Queene <hi>Elizabeth,</hi> and King
+<hi>Iames,</hi> alleaging many <hi>proteſtant Writers</hi> of our owne Church, as
+Doctour <hi>Iohn Whi<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Biſhop <hi>Iewel,</hi> Biſhop <hi>Bilſon,</hi> and others, con<g ref="char:EOLhyphen"/>demning
+them for this their <hi>doctrine and practiſe, which can stand
+neither with peace nor piety. Ergo,</hi> Mr. <hi>Prynne</hi> the <hi>Member,</hi> who
+doth the very ſame in his <hi>Memento;</hi> are both accorded, and not a<g ref="char:EOLhyphen"/>gainſt
+one another, but both againſt this <hi>Pamphleters,</hi> and his Con<g ref="char:EOLhyphen"/>federares,
+<hi>Ieſuiticall, popiſh Aſſertions,</hi> and <hi>practiſe.</hi>
+            </p>
+            <p>Adde hereunto, that Mr. <hi>Prynne</hi> the Barreſtet, not onely in his
+<hi>Truth triumphing over falſhood, antiquity over novelty,</hi> printed by
+Order of the Commons Houſe 1644. and in his <hi>ſword of Chri<g ref="char:EOLhyphen"/>ſtian
+Magiſtracy ſupported</hi> Anno 1646. hath aſſerted <hi>the Power and
+Prerogative of Chriſtian Princes and Kings,</hi> as much as <hi>any man in
+Eccleſiaſticall matters;</hi> but in his <hi>third part of the Soveraign pow<g ref="char:EOLhyphen"/>er
+of Parliaments</hi> and Kingdomes, p. 62<g ref="char:punc">▪</g> 63 determines thus. <hi>Third<g ref="char:EOLhyphen"/>ly,
+<pb n="8" facs="tcp:115470:5"/>
+Neither is this any parcell of the Controverſy</hi> (between the
+King and Parliament.) Whether Subjects may <hi>lay violent hands up<g ref="char:EOLhyphen"/>on
+the perſons of their Princes; wittingly or willingly, <hi>To deprive
+them, of their Lives, or Liberties:</hi> eſpecially <hi>In cold blood,</hi>
+when they do not actually, nor perſonally</hi> aſſault <hi>their lives or chaſti<g ref="char:EOLhyphen"/>tyes,
+or for any publike miſdemeanours,</hi> without a precedent ſentence
+of <hi>impriſonment or death againſt them given judicially by <hi>the whole
+State or Realme,</hi>
+                  <note place="margin">As in ſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me elections and Hea<g ref="char:EOLhyphen"/>then King<g ref="char:EOLhyphen"/>dome, in <gap reason="illegible" resp="#TECH" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> times.</note> * <hi>where they have ſuch authority to araigne or
+condemne them, for all unan<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mouſly diſclaime, yea abominate ſuch
+trayterous practiſes, and Ieſuiticall poſitions, as execrable and
+unchriſtian.</hi> Fourthly,</hi> Neither is this <hi>the thing in difference, as moſt
+miſtake</hi> it: <hi>Whether the Parliament may lawfully raiſe an Army,
+to goe</hi> immediately and directly againſt <hi>the perſon of the King,</hi> to
+apprehend, or <hi>offer violence to Him, much leſſe intentionally to
+deſtroy Him, <hi>or to reſist his owne Perſonall attempts against them,</hi>
+               </hi>
+even to <hi>the hazard of his life.</hi> For<note n="*" place="margin">S<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Col<g ref="char:EOLhyphen"/>lection of all Remon<g ref="char:EOLhyphen"/>ſtrances. &amp;c<g ref="char:punc">▪</g>
+               </note> the <hi>Parliament</hi> and <hi>their Army
+too, <hi>have in ſundry</hi>
+               </hi> Remonſtrances, Declarations, Proteſtations,
+and petitions <hi>renounced any ſuch intention or deſigne at all<g ref="char:punc">▪</g> 
+                  <hi>for
+which there is no colour to charge them:</hi>
+               </hi> when <hi>neither the Parlia<g ref="char:EOLhyphen"/>ment
+nor their forces</hi> in <hi>this their resiſtance, <hi>have the leaſt thought
+at all to offer any violence to the Kings owne perſon,</hi> or to oppoſe</hi>
+his <hi>legall juſt ſoveraigne authority.</hi> The very words and languages
+of Mr. <hi>Prynne</hi> the Member in his <hi>Memento,</hi> who is ſtill conſonant to
+himſelfe in both: And <hi>p.</hi> 92. to 98. he addes, <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> proves,<note n="*" place="margin">Cook. 7. Report. <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> caſe of f. 11<g ref="char:punc">▪</g> P<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>il<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. A<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch. de <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Vinda<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i. c. 17<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>That
+hereditary Kings are Kings before their <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> coronation,
+which is but a ceremony:</hi> That it is <hi>falſe</hi> and <hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>to affirme, that
+Heredit<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry Kings before their Coronations,</hi>
+               </hi> ti<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>they are anoynted,
+are not ſacred, nor <hi>exempt from violence.</hi> That</hi> Saules <hi>perſon was
+ſacred, exempt from his Subjects violence, not becauſe he was anoin<g ref="char:EOLhyphen"/>ted,
+as if that onely did priviledge him: but <hi>becauſe he was a King</hi>
+appoynted by the Lord himſelfe<g ref="char:punc">▪</g> That theſe texts and ſpeeches of</hi> Da<g ref="char:EOLhyphen"/>vid,
+1 <hi>Sam. 24. 6. 10. c. 26 v. 21. 23. 2 Sam.</hi> 1. 12. 16. The Lord for<g ref="char:EOLhyphen"/>bid
+that I ſhould doe this thing unto my Maſter the Lords anointed,
+to ſtretch forth my hand againſt him, ſeeing he is the Lords anointed.
+I will not put forth my hand againſt my Lord, for he is the Lords a<g ref="char:EOLhyphen"/>nointed;
+And <hi>David</hi> ſaid to <hi>Abiſhai,</hi> (when he would have ſlaine
+<hi>Saul)</hi> Deſtroy him not, for who can ſtretch forth his hand againſt the
+Lords anointed, and be guiltleſſe? The Lord forbid, that I ſhould
+<pb n="9" facs="tcp:115470:5"/>
+ſtretch forth my hand againſt the Lords anointed. For waſt thou not
+afraid to ſtretch forth thy hand againſt the Lords anointed? Thy
+blood ſhall be upon thy head, for thy mouth hath teſtified, that thou
+haſt ſl<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine the Lords anointed, &amp;c. Prove, That <hi>Subiects ought
+not wilfully or purpoſely to murder or offer violence to the Perſon
+of their Kings, eſpecially in cold blood, <hi>when they doe not actually
+aſſault them. That David and his men might not with ſafe conſcience,
+ſtretch forth their hands,</hi>
+               </hi> nor <hi>riſe up against their Soveraigne
+King</hi> Saul, <hi>to aſſault or kill him</hi> thus <hi>in cold blood, without any aſſ<g ref="char:EOLhyphen"/>ault
+or preſent provocaetion: which had been <hi>treachery and unpiety</hi>
+in a Sonne in Law, a ſervant, <hi>a ſubiect,</hi> a ſucceſſor, who ſlew the</hi> A<g ref="char:EOLhyphen"/>malekite,
+<hi>that came and brought him tidings of</hi> Sauls <hi>death,</hi> (to<g ref="char:EOLhyphen"/>gether
+with his Crown and bracelet) inſtead of giving him a reward,
+(a<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he likewiſe<note n="*" place="margin">
+                  <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> put <hi>Baanah</hi> and <hi>Richab</hi> to death <hi>as Traytors,</hi> who
+having murdered King <hi>Iſhboſheth,</hi> though his enemy, and corrivall
+inſtead of rewarding them, and hanged up their hands and feet) <hi>be<g ref="char:EOLhyphen"/>cauſe
+he reported himſelfe had ſlaine him, to gain a reward from</hi> Da<g ref="char:EOLhyphen"/>vid:
+<hi>which concludes that it was not lawfull for any of</hi> Sauls <hi>own men
+to ſlay him,</hi> (no not in an exigent) <hi>by his owne command.</hi> Aud he con<g ref="char:EOLhyphen"/>cludes.
+<hi>That the evaſion of Doctor</hi> Ferne: <hi>That</hi> Davids <hi>dem<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nor
+&amp;c.</hi> was <hi>extraordinary,</hi> derogating exceedingly from <hi>the perſonall
+ſafety of Princes; <hi>yea, and</hi> expoſing them to ſuch perils, <hi>as they
+have cauſe to con the Doctor ſmall thankes</hi>
+               </hi> for <hi>ſuch <hi>a bad</hi> invention,
+<hi>I ſhall reiect it<g ref="char:punc">▪</g>
+                  </hi>
+               </hi> as the extraordinary fancy of the Doctour and o<g ref="char:EOLhyphen"/>ther
+<hi>Lo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aliſts</hi> (or Jeſuiſts) <hi>void both <hi>of truth</hi>
+               </hi> and <hi>loyalty<g ref="char:punc">▪</g>
+               </hi> Now
+what Mr. <hi>Prynne</hi> the <hi>Member</hi> could have written more in point
+of law and conſcience poſitively and directly againſt the unlawfulnes
+and diſloyalty of the <hi>Junctoes,</hi> and their <hi>High Courts</hi> arraigning
+and <hi>putting the King to death,</hi> and that in cold <hi>blood</hi> (contrary to
+their faith, <hi>Oaths, Engagements,</hi> even after the <hi>Treaty,</hi> and above
+two yeares after his firſt impriſonment) then what he hath thus
+written and printed as a <hi>Barreſter,</hi> (by the <hi>Houſe of Commons</hi> own
+<hi>Order and approbation, dated May the</hi> 8. 1643. prefixed to <hi>the
+third part,)</hi> or whether theſe paſſages doe not moſt fully and
+punctually concurre with what he hath publiſhed and aſſerted in his
+<hi>MEMENTO,</hi> to the eternall reproach and ſhame of this <hi>ma<g ref="char:EOLhyphen"/>litions
+Impoſtor</hi> and perverter of his words and opinion, let all
+ſober and unb<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſſed men reſolve. And if theſe paſſages be not ſuffici<g ref="char:EOLhyphen"/>ent,
+<pb n="10" facs="tcp:115470:6"/>
+his <hi>Hiſtriomaſtix</hi> printed Anno 1633. <hi>p.</hi> 516, to 520. 825.
+826. 943. with his anſwer to the Bill concerning it, in the <hi>Star-Chamber,</hi>
+wherein he did upon his oath, <hi>condemne and abhor</hi> from
+<hi>his heart, the popiſh Doctrine and practiſe, of murdering and depoſing
+Kings, as contrary to the Oathes of Supremacy and Allegiance, which
+he had taken as a Barrester. His Epiſtle before his Quench-coal</hi> Pub<g ref="char:EOLhyphen"/>liſhed.
+<hi>Anno 1638. wherein he interminis condemnes this Popiſh
+and Jeſuiticall doctrine and practiſe, as faction, rebellion</hi> and trea<g ref="char:EOLhyphen"/>ſon.
+<hi>His pleaſant Purge for a Romane Catholick,</hi> p. 104. <hi>to</hi> 112. prin<g ref="char:EOLhyphen"/>ted
+1642. where (as an <hi>Vtter-Barreſter)</hi> he <hi>particularly refutes and
+cenſures the Popes and Jeſuits doctrine and practiſe of killing or dep<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſing
+Kings, and abſolving Subjects from their Oathes and Allegi<g ref="char:EOLhyphen"/>ance,</hi>
+anſwering all their arguments and texts to prove it. And <hi>the
+Antipathy of the Engliſh Lordly Prelacy,</hi> both <hi>to Regall verity and
+Civil unity: or, an hiſtoricall Collection of the ſeverall <hi>execrable
+Treaſons. Conſpiracies, Rebellions,</hi> ſeditions, State ſchiſmes,
+Contuma<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies, Oppreſſions,</hi> and <hi>Antimonarchicall practiſes,</hi> of our
+<hi>Engliſh, Britiſh, French, Scottiſh</hi> and <hi>Iriſh Lordly Prelates</hi> againſt
+<hi>our Kings, Kingdomes &amp;c.</hi> publiſhed by him as <hi>an Utter-Barre<g ref="char:EOLhyphen"/>ſter,</hi>
+and dedicated to the <hi>Parliament, Anno</hi> 1641. will abun<g ref="char:EOLhyphen"/>dantly
+abſolve him from this ſcandalous <hi>ſcriblers</hi> miſrepreſentation
+of his <hi>loyalty,</hi> and falſe ſurmiſes <hi>contrariety</hi> of his writings, as a
+Barreſter and Member, which have been alwayes <hi>loyall</hi> and <hi>harmo<g ref="char:EOLhyphen"/>nious</hi>
+againſt killing or depoſing of Kings, ayming at nothing but the
+<hi>Honor, peace</hi> and <hi>happi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſe</hi> both of the <hi>King, Kingdome, Parlia<g ref="char:EOLhyphen"/>ment,
+Church,</hi> without any private or ſiniſter ends whatſoever,
+as all impartiall PERVSERS of them cannot but acknow<g ref="char:EOLhyphen"/>ledge.</p>
+            <p>
+               <hi>Thirdly, Mr.</hi> Prynne <hi>the</hi> Barreſter, <hi>in the ſame firſt Part,</hi> page 7
+<hi>aſſerts and proves.</hi> That popiſh Parliaments, Peeres and Prelates,
+<hi>have</hi> heretofore challenged and exerciſed a greater Iuriſdiction over
+their Kings, then this Parliament, or <hi>any other <hi>ſince</hi>
+               </hi> the embracing
+of the Proteſtant Religion <hi>ever claimed,</hi> and doe in a great meaſure
+<hi>diſclaime. <hi>For proofe whereof he ſhewed,</hi>
+               </hi> That they had challenged
+a juſt and legall Power, <hi>(as they deemed it)</hi> to depoſe their Kings:
+<hi>produceth preſidents to prove it, and among others the preſidents
+of King</hi> Edward <hi>the 2d. and</hi> Richard <hi>the 2d. who were firſt enforced
+to</hi> reſigne their Crownes, <hi>and after that, (not arraigned and con<g ref="char:EOLhyphen"/>demned
+<pb n="11" facs="tcp:115470:6"/>
+to loſe their heads, in a High Court of Iuſtice, as now)</hi> had
+a ſe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tence of depoſition drawne up againſt them, <hi>but were to</hi> be ho<g ref="char:EOLhyphen"/>nourably
+treated and maintained all their lives, page 7. 8. 78. to 80.
+<hi>and p. 9. he writes.</hi> That our popiſh Parliaments, Peeres and Pre<g ref="char:EOLhyphen"/>lates
+have oft tranſlated the Crowne from the right Heires, and ſet<g ref="char:EOLhyphen"/>led
+it on others who had no right nor title to it, <hi>producing examples
+to prove it: In the cloſe whereof he writes thus.</hi> Such a tranſcen<g ref="char:EOLhyphen"/>dent
+power and juriſdiction as this, to diſinherit the right Heire, and
+to transferre the Crowne to whom they thought meeteſt, <hi>Neither
+this preſent, nor any other proteſtant Parliaments, Peeres or
+Subiects ever exerciſed, <hi>though</hi>
+               </hi> popiſh Parliaments, Lords &amp; Com<g ref="char:EOLhyphen"/>mons
+have thus frequently done it. <hi>And</hi> p. 86. <hi>he addes.</hi> True it is,
+<hi>Our <hi>proteſtant Parliaments never challenged nor exerciſed ſuch
+Juriſdiction,</hi> and</hi> I preſume <hi>they will not do it. <hi>And good reaſon
+had he thus to write, becauſe the</hi>
+               </hi>
+               <note n="*" place="margin">E<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>act C<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llecti<g ref="char:EOLhyphen"/>on. p. 657<g ref="char:punc">▪</g> 658.</note> Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment,
+in their Anſwer to his Majeſties Declaration, <hi>after his late</hi>
+victory againſt the Rebels <hi>on Sunday the 23. of</hi> October 1642. <hi>had
+but a few moneths before made this</hi> Proteſtation <hi>to all the world</hi>
+concerning the allegations, <hi>That the Army raiſed by the Parliament,
+is <hi>to murder and depoſe the King.</hi>
+               </hi> We hoped the contrivers of that
+Declaration, or any that profeſſed the name of a Chriſtian could
+not have ſo little charity, as to raiſe <hi>ſuch a ſcandall:</hi> eſpecially, when
+they muſt needs know the Proteſtation taken by every Member of
+both Houſes, whereby they promiſe in the preſence of Almighty God
+<hi>to defend his Maieſties Perſon.</hi> The promiſe and proteſtation made
+by the Members of both Houſes upon the nomination of the Earle of
+<hi>Eſſex</hi> to be Generall, and to live and dye with him, wherein is ex<g ref="char:EOLhyphen"/>preſſed:
+That this Army was raiſed for <hi>Defence of the Kings
+perſon,</hi> our often earneſt and humble addreſſes to his Majeſty to
+leave that deſperate and dangerous Army, wherewith he is now en<g ref="char:EOLhyphen"/>compaſſed,
+raiſed and upheld to the hazard if his owne, and the
+Kingdomes ruine. And to come in perſon to his Parliament, where
+he ſhould be ſure to remaine in honour and ſafety. And our humble
+Petition directed to be preſented to him by the hands of the Earle of
+<hi>Eſſex,</hi> before any blow given, to remove his Royall Perſon from that
+Army, a requeſt inconſiſtant with any purpoſe to offer the leaſt vio<g ref="char:EOLhyphen"/>lence
+to his perſon, which hath and <hi>ever ſhall be deare unto us.</hi>
+And concerning the Imputation laid to our charge, of our raiſing this
+<pb n="12" facs="tcp:115470:7"/>
+Army to alter the frame of Government, and establiſh the Lawes of
+the Land, we ſhall need to give it no further anſwer then this. That
+if to raiſe an Army in our juſt defence, when another is marching to<g ref="char:EOLhyphen"/>wards
+us, to deſtroy us and our lawes, be to alter the frame of
+Government, then is that ARMY raiſed for that purpoſe,
+otherwiſe it is for our owne, and the lawes neceſſary preſer<g ref="char:EOLhyphen"/>vation.</p>
+            <p>
+               <hi>And not long after, the</hi>
+               <note n="*" place="margin">Ex<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct Coll<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct on p. 695. <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>6<g ref="char:punc">▪</g>
+               </note> Lords and Commons <hi>in their</hi> Re<g ref="char:EOLhyphen"/>monstrance
+<hi>Novemb. 2. 1642. in</hi> anſwer to his Majeſties Decla<g ref="char:EOLhyphen"/>ration
+the 26 of <hi>May</hi> 1642. concerning the Commiſſion of Array,
+<hi>hath theſe notable Paſſages;</hi> But moſt injuriouſly, moſt maliciouſly it
+is affirmed by the contrivers of this Anſwer, That we told the King
+that we might without want of modeſty and duty depoſe him. Did we
+ſo much as once name that word, the ſignification whereof we profeſ<g ref="char:EOLhyphen"/>ſed,
+that we did not ſuffer it ſo much as to enter into our thoughts?
+Did we ſay, that with duty and modoſty we might depoſe the King,
+becauſe we ſaid, we never ſuffered it to enter into our thoughts?
+Or doe not they rather ſay it, that will needs make Preſidents to be
+rules and patternes? Sure when we ſaid, That ſome Preſidents
+were ſuch, as that they ought not to be rules for us to follow, we
+might by any ingenious Reader, with much more probability beene
+thought to have intended thoſe of depoſing Kings, then to have ſaid
+that with duty and modeſty Kings might be diſpoſed, becauſe we affir<g ref="char:EOLhyphen"/>med
+that we had not ſuffered ſuch things to enter into our
+thoughts.</p>
+            <p>And although they would perſwade his Majeſty that there is little
+confidence to be placed in our Modeſty and duty, yet as God is witnes
+of our thoughts, ſo ſhall our actions witneſſe to all the world, that to
+the honour of our Religion, and of thoſe that are moſt zealous in it,
+(ſo much ſtrucken at by the Contrivers of that Declaration under
+odious names) we ſhall ſuffer more from and for our Soveraign, then
+we hope God will ever permit the mallice of wicked Councellors to
+put us to, and though the happines of this and all Kingdomes depen<g ref="char:EOLhyphen"/>deth
+cheifly upon God, yet we acknowledge that it doth ſo mainly de<g ref="char:EOLhyphen"/>pend
+upon his Maj. and the Royall Branches of that Root, That as we
+have heretofore<g ref="char:punc">▪</g> ſo we ſhall hereafter esteem no hazard too great, no<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+reproach too vile, but that we shall willingly go through the one, and
+undergo the other. That we and the whole Kingdome may enjoy that
+<pb n="13" facs="tcp:115470:7"/>
+happineſſe, which we cannot in an orderly way of providence expect
+from any other fountain or Streams, then thoſe from whence (were
+the <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyſon of evill counſels once removed from about them) wee
+doubt not, but we and the whole Kingdom ſhould be ſatisfied moſt
+abundantly.</p>
+            <p>Therefore Mr. <hi>Prynne</hi> the Barreſter as well as M. <hi>Prynne</hi> the Mem<g ref="char:EOLhyphen"/>ber,
+and both Houſes of <hi>Parliament</hi> too, are point blanke againſt
+the preſent arraigning, depoſing and executing of the King, con<g ref="char:EOLhyphen"/>demning
+it as a <hi>Popiſh</hi> and <hi>Ieſuiticall Practiſe,</hi> never owned, but
+<hi>diſclaimed</hi> by every <hi>Proteſtant Parliament,</hi> and by this <hi>Parliament</hi>
+in two expreſſe <hi>Declarations, two</hi> ſolemne <hi>Proteſtations,</hi> and in the
+<hi>ſolemne League and Covenant</hi> ſince; all which this <hi>Pamphleter</hi>
+tooke, and aſſented to, as readily as any other <hi>Members;</hi> and
+therefore cannot excuſe himſelfe from moſt <hi>deteſtable prevaricati<g ref="char:EOLhyphen"/>on</hi>
+and <hi>perjury,</hi> in violating theſe his ſolemne <hi>Proteſtations. League
+and Covenant,</hi> with his <hi>Oathes of Supreamacy and Allegiance</hi> to
+boot, which he hath oft times taken, the guilt and infamy whereof
+muſt reſt upon his conſcience, and eternally cry for vengeance a<g ref="char:EOLhyphen"/>gainſt
+him, unleſſe he expiate it by timely and deep repen<g ref="char:EOLhyphen"/>tance.</p>
+            <p>Fourthly, Mr. <hi>Prynne</hi> the Barreſter in his Epiſtle to the Reader
+before his fourth Part, thus expreſſeth himſelfe. <hi>For my own pa<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e
+as I have <hi>alwayes been, and euer ſhall be</hi>
+               </hi> an Honour, <hi>a Defender
+of Kings and Monarchy,</hi> (the beſt of <hi>Government. whiles it
+keeps within the bounds which law and conſcience have preſcribed)
+ſo I ſhall never ſo far degenerate below the duty of a man, a Lawy<g ref="char:EOLhyphen"/>er,
+a Scholler, a Chriſtian,</hi> as to miſinforme or flatter either, nor
+yet (out of any popular vaine-glory) court either Parliaments or
+people to the prejudice of KINGS IVST ROYALTIES, but carry
+ſuch an equall hand between them, as ſhall doe right to both, Inju<g ref="char:EOLhyphen"/>ry
+to neither, to preſerve, and ſupport their juſt and legall Sove<g ref="char:EOLhyphen"/>raigntyes,
+juriſdictions, Rights, within their proper limits without
+tyrannicall invaſions, or ſeditions incroachments one upon another,
+This is Mr: <hi>Prynne</hi> the Barreſters ſence.</p>
+            <p>
+               <hi>And in the third Part of his Soveraign Power of Parliaments and
+Kingdomes: page 147. he concludes thus.</hi> Let Gods curſe and
+mens for ever reſt upon all thoſe, who are in love with any warre,
+<pb n="14" facs="tcp:115470:8"/>
+eſpecially a civill, within their own deareſt Countries bowells; <hi>Or
+<hi>Dure abuſe my loyull ſyncere Lucubrations, to any diſloyall ſini<g ref="char:EOLhyphen"/>ſter
+deſignes to the preiudice of their Soveraignes,</hi>
+               </hi> or the States
+wherein they live; which he never publiſhed, to countenance or encou<g ref="char:EOLhyphen"/>rage
+any tumultuous, <hi>REBELLIOUS</hi> factions, ambitions, <hi>Trayterous
+Spirits,</hi> to mutiny or <hi>Rebell againſt their Soveraigns:</hi> but only out
+of a cordiall deſire to effect ſuch a ſpeedy, honourable, ſafe, religious,
+ſempeternall Peace between <hi>King and Parliament,</hi> as all true Chri<g ref="char:EOLhyphen"/>ſtian
+Engliſh hearts, both cordially pray, long for, &amp; endeavour. Ergo
+<hi>Mr.</hi> Prynne <hi>the Member, and Barreſter, is ſtill one and the ſame man,
+an aſſertor of</hi> Monarchy <hi>and</hi> Loyalty, <hi>and no wayes contradictory
+to himſelfe in any of his writings; and</hi> Gods curſe <hi>and</hi> mans <hi>muſt reſt
+upon this</hi> unpurified Pamphleter, <hi>for his malicious perverting of his
+words, againſt their ſcope and purpoſe, to juſtifie the</hi> depoſing <hi>and
+murthering of the</hi> King; <hi>and altering of our</hi> Monarchy.</p>
+            <p>5ly. Mr. <hi>Prynne</hi> the Barreſter, neither in his 4. <hi>Part of the Sove<g ref="char:EOLhyphen"/>raigne
+Power of Parliaments,</hi> nor in his <hi>Appendix</hi> to them, hath
+produced any one <hi>Preſident</hi> (no not of any one <hi>Popiſh Parliament</hi>
+or <hi>Kingdome)</hi> that ever judicially condemned or executed their law<g ref="char:EOLhyphen"/>full
+<hi>King,</hi> were he never ſo <hi>Tyrannicall, impious</hi> or <hi>flagitious;</hi> much
+leſſe any <hi>Proteſtant Parliament</hi> or <hi>Realme,</hi> who condemne and ab<g ref="char:EOLhyphen"/>hor
+both the <hi>Doctrine and Practiſe of murthering or deſtroying
+their Kings,</hi> as <hi>Jeſuiticall, Papall, impious, Heriticall and damnable;
+abjured by the very Oath of Allegiance;</hi> as he proves expreſly. <hi>Part.</hi>
+1. p. 1. 2. 3. 4. Therefore Mr. <hi>Prynne</hi> the Member, in his <hi>Memento,</hi> is
+of the ſelfe ſame Judgement, as he was in his <hi>Soveraigne power of
+Parliaments:</hi> in both which this <hi>Pamphleter</hi> (a <hi>Member of the high
+Court of Iuſtice,</hi> who condemned the King to death) may read his
+<hi>Neck-Verſe,</hi> and fatall <hi>deſtiny</hi> if he repent not.</p>
+            <p>All other Paſſages truly quoted out of Mr. <hi>Prynne</hi> the Barreſter, to
+prove the <hi>Soveraigne Power of Parliaments and Kingdoms,</hi> (not of
+a Peece of a Parliament, or Kingdome, much leſſe of a ninth part of a
+Commons Houſe ſitting under a force, who are neither a Parlia<g ref="char:EOLhyphen"/>ment
+nor Kingdome) Mr. <hi>Prynne</hi> the Member ſtill averres, in this and
+his owne <hi>genuine ſence,</hi> as they are printed in his <hi>Books,</hi> not as they
+are mangled, and miſapplied by this idle <hi>Scribler,</hi> to thoſe few
+Commons now ſitting, <hi>p.</hi> 5. 6. &amp;c,</p>
+            <p>2dly Whereas he alleageth <hi>p.</hi> 7. 8. 9. 10. That <hi>William Prynne</hi> the
+<pb n="15" facs="tcp:115470:8"/>
+Member his <hi>first Argument againſt the Iunto</hi> is: <hi>That their pro<g ref="char:EOLhyphen"/>ceedings
+againſt the King is an Offence within the Statute of</hi> 25. E.
+3. <hi>concerning Treaſon. I William Prynne the Barreſter doe remem<g ref="char:EOLhyphen"/>ber,
+that in the beginning of this late Warre the Cavaliers uſed the
+ſame Argument againſt the Parliaments raiſing Armes, and I then
+made this Anſwer to it,</hi> p. 107. <hi>of my ſaid firſt Part:</hi> That <hi>The Par<g ref="char:EOLhyphen"/>liament
+and Whole Kingdome, being the Higheſt Power, cannot
+by any publike Acts or Votes of theirs conſented to in Parliament be<g ref="char:EOLhyphen"/>come
+Traytors or guilty of High Treaſon againſt the King, either by
+the Common Law, or the Statute of 25. E. 3. c.</hi> 2. of Treaſons; <hi>which
+extends, not to <hi>the whole Kingdom, or Court of Parliament</hi> repre<g ref="char:EOLhyphen"/>ſenting
+it (of which no Treaſon was ever yet preſumed)</hi> &amp;c. <hi>William
+Prynne</hi> the Barreſter and Member is ſtill of the ſame opinion, and
+not repugnant to him ſelfe; who ſpeaks there, of a WHOLE KING<g ref="char:EOLhyphen"/>DOME,
+AND COVRT OF PARLIAMENT (as this
+<note n="*" place="margin">Page. 5 6 8 9.</note> 
+               <hi>Pamphletter</hi> relates his words, and the Titles of all his 4. Parts
+manifeſt) conſiſting of <hi>Lords and Commons,</hi> and that in a condition of
+<hi>freedom and ſafety,</hi> ſitting in a <hi>full and free Parliament:</hi> But he
+never meant nor intended it, of the <hi>Houſe of Commons</hi> alone, acting
+and voting without and againſt the <hi>Houſe of Lords;</hi> nor of a Houſe
+of <hi>Commons</hi> ſitting &amp; acting under a horrid <hi>Arme<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> force,</hi> as now much
+leſſe of a <hi>remnant of a Commons-Houſe</hi> ſitting and Voting when
+near nine parts or ten of their <hi>fellow-members</hi> are by a mutinous
+Army impriſoned, ſecluded and driven away from the <hi>Houſe:</hi> or of
+40. or 50 <hi>Commons</hi> ſitting under a force and uſurping to themſelves
+without and againſt the conſent of their ſecluded <hi>Fellow Mem<g ref="char:EOLhyphen"/>bers,</hi>
+the <hi>ſupreame Authority of the Kingdom, making Acts of Par<g ref="char:EOLhyphen"/>liament,</hi>
+and erecting a New <hi>High Court of Juſtice</hi> without
+the <hi>Lords</hi> or their <hi>Fellow Nembers</hi> conſents, to indite, ar<g ref="char:EOLhyphen"/>raigne,
+condemne and execute the <hi>King</hi> as a <hi>Traytor,</hi> and without
+the whole Kingdomes, or <hi>Scotlands</hi> and <hi>Irelands</hi> joynt conſents, of
+which he is likewiſe <hi>King.</hi> Such a Parliament, as this conſiſting of
+ſome 50. or 60 Commons only without <hi>King, Lords,</hi> or the reſt
+of their <hi>Fellow Commoners,</hi> he never heard nor read of in any age,
+and ſo could never intend it: and therefore in his <hi>Memento,</hi> might
+very well mind them of committing <hi>Treaſon,</hi> within this Law; what<g ref="char:EOLhyphen"/>ever
+they Vote, order, or ordain, or Enact in ſuch a thin <hi>Houſe</hi> under
+a force, whiles the other Members are ſecluded, being by Mr. <hi>Speakers</hi>
+               <pb n="16" facs="tcp:115470:9"/>
+owne <hi>Declaration</hi> of July 30. 1647. and the <hi>Ordinance of both Houſes</hi>
+Auguſt 20. 1647. <hi>declared to be meerly null and void to all intents
+even at the time of its Voting Ordering, Ordaining enacting, &amp; ever
+after:</hi> and ſo no prea at all <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> juſtifie ſuch <hi>Members</hi> in the caſe they
+be indicted, a<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d arraigned of <hi>High Treaſon</hi> for it.</p>
+            <p>3 <hi>Whereas this</hi> Pamphletter, <hi>p. 11 ſuggeſteth. That</hi> Wil<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prynne
+<hi>the Member in</hi> the rehearſal of the Statute of 25. E. 3. hath foulely
+miſcarried and falſified the words of it <hi>(in his</hi> Mement<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) <hi>For where
+as the Statute mentions</hi> nothing at all touching <hi>depoſing the King;</hi>
+he urgeth the Statute thus. That it is no leſſe then High Treaſon
+for any man by overt act to compaſs or imagin the depoſition or death
+of the King: Adding the word <hi>depoſition;</hi> which is no where found
+in the whole Statute.</p>
+            <p>
+               <hi>To this Mr.</hi> Prynne <hi>the Member anſwers. 1. That this</hi> Ignoramus,
+<hi>hath foulely miſ-recited and falſifyed his words, by omitting part of
+them: which are theſe. Firſt,</hi> I ſhall minde them, that by the
+<hi>Common Law</hi> of the Realme, <hi>(which he omits)</hi> the Statute <hi>of</hi> 25.
+E. 3. <hi>and all</hi> other Acts concerning Treaſons <hi>(omitted likewiſe
+by this</hi> Scribler) it is no leſſe than High-Treaſon for any man, by o<g ref="char:EOLhyphen"/>vert
+Act to compaſſe or imagine the depoſition or death of the King:
+<hi>quoting</hi> Cook <hi>and</hi> Stamford <hi>in the margin: and 21. R</hi> 2. Plac. Cor.
+<hi>num. 4. 6. 7. in the Text.</hi>
+            </p>
+            <p>Now though the word <hi>depoſing,</hi> be not in the <hi>Statute</hi> of 25. E. 3.
+yet it is in the <hi>Lawbooks</hi> which he cites, and in the <hi>Parliament Roll</hi>
+of 21. <hi>R.</hi> 2. which this <hi>Dulman</hi> never read.</p>
+            <p>Therefore this abſurd obſervation and cenſure of his might well
+have been ſpared. Secondly <hi>To compaſſe the depoſing (or impriſo<g ref="char:EOLhyphen"/>ning)
+of the King is in expreſſe Words</hi> declared to <hi>be Treaſon</hi> by the
+Statutes of 26 H. 8. c. 13. 1. E. 6. c. 12. 1. <hi>Eliz</hi> c. 6. 13. <hi>E.</hi> c. 1.
+and is no leſſe then High Treaſon within the meaning and intention
+of 25 E 3; c. 2. though not within the Letter, as our<note n="*" place="margin">Cook 3. inſtit. ch. <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> p. 5. 6. 12 13. and 7. Rep. 10, 11</note> 
+               <hi>Law-books</hi>
+and all the Judges of <hi>England</hi> have reſolved. Therefore Mr. <hi>Prynne</hi>
+the Member ſtands <hi>rectus in Curia,</hi> againſt this ignorant falſe aſper<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>4ly, What Mr. <hi>Prynne</hi> the Barreſter writ concerning the <hi>Oath of
+Supremacy,</hi> quoted p. 11 12: he doth ſtill averre as to the firſt
+branch of it, (which is diſtinct from the latter) as applyed to the
+<hi>whole Parliament,</hi> not to the Houſe of <hi>Commons</hi> alone, or thoſe <hi>few
+<pb n="17" facs="tcp:115470:9"/>
+Members</hi> now ſitting in it, under a force; of which he never inten<g ref="char:EOLhyphen"/>ded
+that paſſage, to whom it is here miſapplyed: Only he muſt in<g ref="char:EOLhyphen"/>form;
+this <hi>Gentleman;</hi> that the latter clauſe of this Oath; <hi>And do pro<g ref="char:EOLhyphen"/>miſe
+that from henceforth, I ſhall bear true allegiance to the Kings
+<hi>Highne, his</hi> heirs and lawful ſucceſsors; <hi>and to my power ſhall aſ<g ref="char:EOLhyphen"/>ſiſt
+and defend all Iuriſdictions, Priviledges, and Preheminences
+granted or belonging to the Kings Highneſſe, his Heirs and Suc<g ref="char:EOLhyphen"/>ceſſors
+on, united and anexed to the Imperiall Crowne of this Realme:
+So help me God.</hi>
+               </hi> &amp;c. Is a diſtinct clauſe from the former; which hee
+and his Confederates in their late proceedings have quite forgotten:
+and ſhall one day anſwer for ſuch wilfull <hi>perjury,</hi> in this or the world
+to come, if they repent not of it.</p>
+            <p>
+               <hi>5thly. Whereas he addes p.</hi> 13. That the Oath of Allegiance re<g ref="char:EOLhyphen"/>lates
+only to the Popes unlawfull exerciſe of Authority and Iuriſdi<g ref="char:EOLhyphen"/>ction
+within the Kingdome: <hi>And that</hi> William Prynne <hi>the Mem<g ref="char:EOLhyphen"/>ber
+in his</hi> rehearſall makes the Oath to run thus.</p>
+            <q>That the Pope neither of himſelfe, nor by any Authority of the
+Church of <hi>Rome,</hi> or by any other means, nor any other hath power,
+&amp;c. and ſo inſtead of the words with any other, implying the Au<g ref="char:EOLhyphen"/>thority
+of the Pope joyned with others, he makes it a diſtinct clauſe,
+nor any other, and ſo upon this forgery including the Parliament
+within thoſe words, nor any other, he would make this proceeding
+againſt the King to be contrary to the Oath of Allegiance.</q>
+            <p>Mr. <hi>Prynn<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> the Member anſwers; Firſt, that though this <hi>Oath doth
+principally</hi> relate to the <hi>Popes unlawfull</hi> exerciſe of Authority and
+Jurisdiction within this Realme; yet it relates not only and ſolely to
+it, as he pretends. The whole ſcope of this Oath is; <hi>To ſecure our
+Kings from being depoſed, or murdered by their Subjects, or any other:</hi>
+The greateſt danger the Parliament then feared, as to thoſe two
+<hi>Treaſons</hi> and <hi>Miſchiefs,</hi> was principally from the <hi>Pope</hi> and his <hi>Popiſh
+Inſtruments,</hi> who maintained and averred, <hi>the lawfullneſſe of de<g ref="char:EOLhyphen"/>poſing
+and murthering Christian Princes excommunicated or de<g ref="char:EOLhyphen"/>prived
+by the Pope, by their Subjects, or any other.</hi> Againſt which
+miſchife this <hi>Oath</hi> and Statute principally provides; it being contrary
+to the Doctrine and Practiſe of all Proteſtant Churches and Subjects.
+But can any man argue. This Oath provides againſt the depoſing and
+murthering of our Kings by the Pope or Popiſh Subjects or Parlia<g ref="char:EOLhyphen"/>ments,
+by any influence or authority from the Pope. <hi>Ergo</hi> it is law<g ref="char:EOLhyphen"/>full
+<pb n="18" facs="tcp:115470:10"/>
+for Proteſtant Subjects and Parliaments to depoſe and murther
+their Kings without infringing this Oath? Doth not that Law and
+Oath which provides againſt the greateſt and moſt likelyeſt Aſſaſsi<g ref="char:EOLhyphen"/>nates
+and Depoſers of our Kings provide likwiſe againſt the leſſer
+and more unuſuall? and is not a Proteſtants depoſing and murthering
+of his Prince as treaſonable, as unlawfull as a Papiſts, yea and farre
+worſe in this reſpect, becauſe it hardens and juſtifies them therin, ſcan<g ref="char:EOLhyphen"/>dalizeth
+and croſſeth the very practiſe and principles of the prote<g ref="char:EOLhyphen"/>ſtant
+Religion? If ſo, then both are alike within the intent and mea<g ref="char:EOLhyphen"/>ning
+of this Law and Oath, though the Pope and his inſtruments be
+pincipally intended.</p>
+            <p>2dly. Theſe clauſes in the Oath: That the Pope neither by him<g ref="char:EOLhyphen"/>ſelfe<g ref="char:punc">▪</g>
+nor with <hi>any other</hi> hath any <hi>power or authority to depoſe the
+King</hi> &amp;c. <hi>That I will bear true Allegiance to his Maieſty, his
+Heirs and Succeſſors, and him and them will defend to the utter moſt
+of my power, <hi>againſt all attempts whatſoever,</hi>
+               </hi> (a univerſall affir<g ref="char:EOLhyphen"/>mative
+from or by the Pope or any others) <hi>which ſhall be made a<g ref="char:EOLhyphen"/>gainst
+his or their perſons, their Crown, and Dignity, by reaſon or
+colour of any ſuch ſentence or Declaration, <hi>or otherwiſe:</hi>
+               </hi> Which
+laſt words in the diſ-junctive coupled with the former generall ones:
+and compared with the following clauſe: <hi>And that neither the Pope
+<hi>nor any perſon whatſoever,</hi> hath power to abſolve me from this Oath,
+or any part thereof</hi> &amp;c. and with the firſt branch of it. <hi>I do truly and
+ſincerely acknowledge, profeſſe, teſtify, and declare in my Conſcience,
+before God and the world, that our Soveraigne Lord King</hi> Charles,
+<hi>is lawfull and rightful King of this Realme, <hi>and of all his Ma<g ref="char:EOLhyphen"/>jeſties
+Dominions and Countries:</hi>
+               </hi> with this addition, that <hi>all Prote<g ref="char:EOLhyphen"/>ſtant
+Subjects are enjoyned to take this Oath,</hi> as well as <hi>Papiſts,</hi> and
+<hi>more</hi> eſpecially every <hi>member of the Commons houſe of Parl.</hi> without
+taking whereof he is utterly diſabled to be a <hi>Member,</hi> Doe infalliby
+evidence, that this Law and Oaths related not <hi>only,</hi> though <hi>princi<g ref="char:EOLhyphen"/>pally,</hi>
+to the Popes Uſurpations in this Realm, but to all other Sub<g ref="char:EOLhyphen"/>jects
+uſurpations to depoſe or murther the King by any uſurped or
+pretended Authority, or High Court of Juſtice whatſoever.</p>
+            <p>
+               <hi>But that which clears it unanſwerably is this; That this very</hi> Act
+<hi>provides, That</hi> every Gentleman or perſon of higher degree, or any
+perſon or perſons, which hath born or ſhall bear any Office or place of
+Captain, Leiutenant, or any other place, charge or Office in Camp ar<g ref="char:EOLhyphen"/>my,
+<pb n="19" facs="tcp:115470:10"/>
+or Company of Soldiers, or Conducters of Soldiers, shall goe or
+paſſe voluntarily out of this Realme, to ſerve any forreign Prince,
+State, or Potentate <hi>(be it Proteſtant or Popiſh,)</hi> before that he shall
+become bound by obligation with two ſuch ſuertyes as shall be alowed
+of by the Officers therein limited to take the ſame Bond, <hi>unto our
+Sovereign Lord the Kings Majeſty, HIS HEIRES and SUCCESS<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>R;
+in the ſum of <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wenty pounds of</hi> currant Engliſh money at the leaſt,
+with condition to the effect following, shall be a Felon. The Tenour
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f which condition followeth: <hi>viz.</hi> That if the within bounden shal
+not at any time thereafter be reconciled to the Pope, or Sea of <hi>Rome,
+<hi>nor</hi>
+               </hi> Shall enter into or conſent unto <hi>any practiſe, plot or conſpiracy
+whatſoever againſt the Kings maieſty his heirs and Succeſsors:
+or any of his or their</hi> Eſtate or Eſtates, <hi>Realmes</hi> or <hi>Dominions:</hi>
+but shall within convenient time after knowledg thereof had, reveal
+and diſcloſe to <hi>the Kings maieſty his heirs and Succeſſors,</hi> or ſome
+of the Lords of <hi>his</hi> or <hi>their</hi> Honourable Privy Councell
+<hi>all ſuch practiſes, plots and conſpiracyes,</hi> that then the ſaid Obligati<g ref="char:EOLhyphen"/>on
+be voyd. <hi>Which condition being generall, extending to</hi> any Plot,
+practiſe or conſpiracy whatſoever, againſt the King, His Heirs and
+Succeſſors or any of his or their Eſtate or eſtates, Realms or
+Dominions; <hi>without any limitation to the Pope, or other ſorraigne
+Prince, State or Potentate, or to popiſh Recuſants only; and reach<g ref="char:EOLhyphen"/>ing
+as well to plots, practiſes and conſpiracies by any Subjects what<g ref="char:EOLhyphen"/>ſoever,
+as well within the Realme as without; be they proteſtants, pa<g ref="char:EOLhyphen"/>piſt,
+or whatſoever Sect or Religion: fully clears and proves the
+Oath of</hi> Allegiance <hi>to extend though principally to the pope and
+forraign Princes and States, and their Treaſons and Conſpiracies, yet
+only unto them; but likewiſe to the Treaſons, Plots, Practiſes &amp; con<g ref="char:EOLhyphen"/>ſpiracies
+by any ſubjects whatſoever within the realm, &amp; to the preſert
+diſloyal votes, acting &amp; <hi>Ieſuitical</hi> proceedings of the members now
+ſitting.</hi>
+            </p>
+            <p>Thirdly, For the pretended perverting of the words of this oath
+by Mr. <hi>Prynne,</hi> viz: <hi>Nor any other;</hi> for, <hi>nor with any other,</hi> It is but
+the Printers overſight &amp; omiſſion, Nor doth it alter the ſence in ſub<g ref="char:EOLhyphen"/>ſtance,
+For if the Pope cannot joining <hi>with any other,</hi> (ſuppoſe the
+Members now ſitting in the Commons houſe or the high Court of
+Iuſtice) lawfully depoſe nor murther the King, then certainly thoſe
+<hi>Any other,</hi> cannot lawfully depoſe, nor murther him without the
+Pope; within the true meaning of this Oath, under pain of deepeſt
+<pb n="20" facs="tcp:115470:11"/>
+perjury and Treaſon to boot: which I deſire this <hi>Pamphletter</hi> now
+ſeriouſly to conſider, if he hath any honeſty or conſcience leſt
+within him.</p>
+            <p>6thly. What is objected out of <hi>Mr. Prynnes</hi> Appendix p. 14 is
+already ſufficiently anſwered and cleared in the <hi>firſt and ſecond
+ſection;</hi> and there is nothing in it, which can juſtifie the late triall,
+arraignment and condemnation of the King in the leaſt degree,
+triable by no law of God or man by ſuch an uſurped and illegall
+Iuriſdiction, amounting to <hi>Tyranny</hi> in the ſuperlative Degree. And
+for the condemnation and beheading of <hi>Mary Queen of Scotts;</hi> it
+was not by her own Parliament and Subjects in her own Kingdom,
+for any Treaſon againſt them; but for Treaſon committed in <hi>Eng<g ref="char:EOLunhyphen"/>land</hi>
+againſt <hi>Queen Elizabeth,</hi> where ſhe was a Subject and no
+Queen at all; and that by a ſurpriſe, as ſome relate.</p>
+            <p>7thly. To that objected, p. 15 <hi>Touching the name and Title</hi>
+which <hi>WILLIAM PRYNNE the Member is pleaſed to give
+to the Parliament</hi> (he meanes the 45 Commons; who are no Par<g ref="char:EOLhyphen"/>liament)
+<hi>now ſitting, calling it,</hi> A preſent unparliamentary Iunto.
+I <hi>William Prynne</hi> the Barreſter <hi>do call to mind, that when the King
+and divers of the Lords and Commons in the beginning of our late
+Troubles had deſerted the Parliament, I did then in my ſaid firſt</hi>
+Part of the Soveraigne Power of Parliaments p: 43, 44 <hi>maintaine
+and prove;</hi> That the remaining part was a Parliament, notwithſtan<g ref="char:EOLhyphen"/>ding
+the perſonall abſence of the reſt; and that, as long as thoſe
+abſent are Members of the Parliament, they ſhall ſtill be legally
+preſent, whether they will or no.</p>
+            <p>To this Mr. <hi>Prynne</hi> the Member anſwers. Firſt, That what he
+hath written as a <hi>Barreſter</hi> in theſe two Pages of his <hi>Firſt Part,</hi>
+will prove fatall to this <hi>Pamphletter</hi> and his <hi>Junto</hi> now ſitting, if
+well conſidered, and truly recited. For firſt, he there proves;
+<hi>That there can be no Parliament without the King, who ought to be
+alwayes perſonally preſent, in or neare his Parliament:</hi> which he
+hath more fully manifeſted as a <hi>Barreſter,</hi> in his <hi>Plea for the Lords,</hi>
+p. 7. to 13. by many Authorities and Records. The 45. Commons
+therefore now ſitting without the <hi>Lords</hi> and their <hi>Fellow Members</hi>
+concurrence, and againſt their <hi>Votes,</hi> having <hi>illegally</hi> and
+<hi>trayterouſly</hi> condemned the <hi>King to looſe his Head;</hi> and act<g ref="char:EOLhyphen"/>ing
+as an intire Parliament, without the King, Lords or their
+Fellow Members, can be no Parliament at all, but a meer <hi>unpar<g ref="char:EOLhyphen"/>liamentary
+<pb n="21" facs="tcp:115470:11"/>
+J<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto,</hi> by <hi>Mr. Prynne</hi> the <hi>Barreſters</hi> Reſolution, to
+which this <hi>Scribler</hi> refers. And ſo much the rather, becauſe they
+will quite diſſolve this Parliament, by putting the King to death.
+For the Parliament being but the <hi>Kings Parliament and great
+Councell,</hi> and an <hi>Authority</hi> not an <hi>Intereſt,</hi> originally called and
+authoriſed to ſit by the Kings Writ alone, which abates and expires
+by his death; and enables not to conſult without, but only <hi>with the
+King</hi> of buſineſſes concerning <hi>The King and His</hi> Kingdome; as
+theſe clauſes of the Writ import. <hi>Carolus</hi> &amp;c. <hi>cum NOS de ad<g ref="char:EOLhyphen"/>viſemento
+et conſenſu Conſillij NOSTRI pro quibuſdam arduis et
+urgentibus negotijs NOS, Statum &amp; defenſionem Regni NOSTRI
+ANGLIAE concernent: quoddam PARLIAMENTVM NOS<g ref="char:EOLhyphen"/>TRVM</hi>
+&amp;c. <hi>tenere ordinavimus: Et ibidem vobiſcum</hi> &amp;c. <hi>Regni
+NOSTRI COLLOQVIVM HABERE</hi> &amp;c. <hi>Quod perſonali<g ref="char:EOLhyphen"/>ter
+interſitis NOBISCVM</hi> &amp;c. <hi>ſuper DICTIS NEGOTIIS tra<g ref="char:EOLhyphen"/>ctaiur.
+Et ad faciendum et conſentiendum his quaenunc et. ibidem, de
+Communi Conſilio dicti Regni NOSTRI contegerit ordinari ſuper
+NEGOTIIS ANTEDICTIS</hi> &amp;c. The King therefore being
+put to death, the Parliament muſt of neceſſity be diſſolved by it,
+ſince it can be no more his Parliament, his Councell, nor conferre
+with HIM about HIS and HIS Kingdomes affaires for which
+they were called, and elected to treat of as the Peoples Attorneys
+or Truſtees: the King being both the <hi>Head, the beginning, end
+and foundation of the Parliament</hi> (which cannot ſubſiſt without
+him, no more then a naturall body without an head, or an houſe
+without a foundation) as our<note n="*" place="margin">Modus <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Parliamen<g ref="char:EOLunhyphen"/>tum Cook 4. I<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtit. c. p. 1. 2. &amp;c. Cromp<g ref="char:EOLhyphen"/>tons Iuriſ<g ref="char:EOLhyphen"/>diction of Courts. f. 1. 2. So my Ple<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for L<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ds p. 7. to 12.</note> 
+               <hi>Law books</hi> reſolve: and ſo was it
+expreſly adjudged and agreed 1. H. 4. <hi>rot. Parl. n.</hi> 1. 14. H. 4. Cook 4.
+<hi>Inſtit.</hi> p. 46. &amp; 4. E. 44. 44. <hi>b. That by the death of the King the
+Parliament is ipſo facto diſſolved,</hi> as all other Courts held only by
+his <hi>Writ or Commiſſion</hi> are. Neither will the Act made this Parlia<g ref="char:EOLhyphen"/>ment
+in the 17. year of this King, <hi>To prevent Inconveniences which
+may happen by the untimely adjourning, Proroguing or Diſſolving of
+this preſent Parliament,</hi> which enacted: <hi>That this PRESENT
+PARLIAMENT now aſſembled ſhall not be DISOLVED, pro<g ref="char:EOLhyphen"/>rogued,
+or adjourned unleſſe it be by Act of Parliament to be paſſed
+for that purpoſe:</hi> continue this Parliament in being after the Kings
+death, for theſe reaſons. Firſt, becauſe the ſcope &amp; intent of this Act
+(made before our late Warres) was only to diſable the King to ad<g ref="char:EOLhyphen"/>journe
+<pb n="22" facs="tcp:115470:12"/>
+prorogue, or diſſolve this Parl. by any Proclamation or Royall
+Act of his, without the conſent of both houſes; as the very title, pro<g ref="char:EOLhyphen"/>logue
+and cloſe of it reſolve: But never to continue it ſtill a Parlia<g ref="char:EOLhyphen"/>ment
+in caſe of the King death, againſt which it never intended to
+provide, it being a legall and abſolute diſſolution of it by the very
+fundamentall conſtitution of Parliaments, and the Common Law of
+the Realme.</p>
+            <p>Secondly, Becauſe the King is the head and principall
+Member of this preſent Parliament; and the firſt perſon in the enact<g ref="char:EOLhyphen"/>ing
+Parl. Be it declared and enacted BY THE KING &amp;c. and there<g ref="char:EOLhyphen"/>fore
+when he ceaſeth to be and is cut off, the Parliament muſt of ne<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+ceſſity ceaſe to be, as well as if the Lords and Commons had all bin
+dead or murdered by the Army, in which caſe the Parliament had bin
+ended notwithſtanding this Act, which cannot make a thing in being
+which is actually deſtroyed, no more then a dead man to be alive,
+Becauſe it was never the intention of the King, Lords and Commons
+who were all parties to this act, to ſet up a new kinde of Parliament
+without either King or Lords, or the <hi>Majority of the Commons houſe</hi>
+or to veſt the Name, power and authority of the Parliament in an
+eight or ninth part of the Commons houſe alone, (as now) when the
+King, Lords and reſidue of the Commons were cut off and forced a<g ref="char:EOLhyphen"/>way
+by the Armies violence.</p>
+            <p>Such a thought as this never once entred into their heads. There<g ref="char:EOLhyphen"/>fore
+the murthering of the King, the laying aſide the Lords houſe,
+&amp; ſecluding of moſt of the Commons, muſt of neceſſity diſſolve this
+preſent <hi>Parliament</hi> notwithſtanding this Act, as Maſter <hi>Prynne</hi> the
+<hi>Barreſter,</hi> proved long ſince, before he was a <hi>Member,</hi> in his <hi>Plea,
+for the Lords.</hi> p. 14 15. and ſo much the rather, becauſe without
+them, no Act of Parliament can poſsibly be made this <hi>Parliament,</hi> to
+diſſolve it, within the words or meaning of this Act. The Com<g ref="char:EOLhyphen"/>mons
+therefore now ſitting, having by their late exorbitant procee<g ref="char:EOLhyphen"/>dings
+and cutting off the Kings and Lords too in Mr. <hi>Prynne</hi> the Bar<g ref="char:EOLhyphen"/>reſters
+judgement diſolved this preſent Parliament, and thereby con<g ref="char:EOLhyphen"/>ſequently
+diſſolved all Parliament Comittees in City and countrey,
+together with all Ordinances of Parliament, and all<note n="*" place="margin">Cook 7. Rep. f. 29. 30. 31. Dyer 165. 4. E. 4. 44. 1. E. 5. <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. a. 1. H. 7. 2 1. E. 3. 6, 7.</note> 
+               <hi>Commiſſions,</hi>
+of the <hi>Commiſsioners of the Great Seale, Iudges</hi> of the <hi>Kings
+Courts, Iustices</hi> of the <hi>Peace, Sheriffes, and the like,</hi> and the <hi>Gene<g ref="char:EOLhyphen"/>ralls</hi>
+               <pb n="23" facs="tcp:115470:12"/>
+and all other Officers of the Armies Commiſsions likewiſe,
+and put the Kingdome and Army into a miſerable confuſi<g ref="char:EOLhyphen"/>on</p>
+            <p>Maſter <hi>Prynne</hi> the <hi>Member</hi> conceives he could then and now
+give them, no other Title, but that, in his <hi>Memento,</hi> which he fears
+the preſent age and poſterity will have juſt cauſe to give them, for
+the miſeries they have brought, and are like to bring upon them<g ref="char:punc">▪</g>
+by their Vn-parliamentary and violent proceedings, which he doubts
+wil end in their own ruine.</p>
+            <p>Secondly, Maſter <hi>Prynne</hi> the <hi>Barrester</hi> in thoſe very Pages
+proves,</p>
+            <p>That not <hi>only the KING,</hi> but all the <hi>Lords</hi> and <hi>Commons
+ought to be preſent at the Parliament, and fined if they abſent
+themſelves without juſt cauſe; and that all things ought to be
+acted in Parliament by the Kings, Lords and Commons joynt
+concurrence; only he addes,</hi> That <hi>if any of the Lords or Commons
+when ſummoned, ſhall wilfully abſent themſelves, that the reſt may
+ſit and proceed without them, <hi>and by the Kings conſent</hi> make whol<g ref="char:EOLhyphen"/>ſome
+Lawes for the Common wealth.</hi> But he neither there nor any
+where elſe affirmed that the Lords and Commons could make bin<g ref="char:EOLhyphen"/>ding
+Lawes or Ordinances of Parliament without the King; or that
+the Commons alone could make Acts of Parliament without the
+Lords; as a few of them now they preſume; or that the eight or ninth
+part only of the commons houſe ſitting under a force, when the reſt
+of the Members are impriſoned, ſecluded and driven away thence by
+the Armyes violence, were a <hi>compleat Parliament,</hi> or Houſe of <hi>com<g ref="char:EOLhyphen"/>mons</hi>
+to vote, order or act any thing (except only to adjourne, and
+take Order to remove the force) or that what they voted or acted
+under a force, was valid and binding to their fellow MEMBERS,
+or any others: but he expreſſely affirmes the contrary: <hi>that whate<g ref="char:EOLhyphen"/>ver
+is voted or enacted whiles the Parl is under a force is void &amp;</hi>
+null Part: 2. p. 86: <hi>And that no proceedings ought to be in Parlia<g ref="char:EOLhyphen"/>ment
+when moſt of the Members are abſent or driven away from it.</hi>
+Part. 2. p. 7: which he proves more largely whiles a <hi>Barreſter</hi> and be
+fore he was a <hi>Member;</hi> In his <hi>Levellers Levelled: and his Plea
+for the Lords.</hi>
+            </p>
+            <p>Therefore this <hi>Pamphletter</hi> hath much abuſed <hi>Maſter
+Prynne</hi> in this his miſquotation and miſapplication of his words</p>
+            <p>
+               <pb n="24" facs="tcp:115470:13"/>
+3dly. <hi>Mr. Prynne</hi> the <hi>Barreſter</hi> in the <hi>firſt part</hi> of his <hi>Soveraigne
+power of Parliaments,</hi> which this <hi>Scribler</hi> quotes p. 28. cites and cen<g ref="char:EOLhyphen"/>ſures,
+the unwarrantable Practiſe of King <hi>Richard the</hi> 2d (for which
+he was <hi>articled againſt in the Parliament of</hi> 1H. 4. when he was
+depoſed<note n="*" place="margin">Gr<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fton p 329. Mr. Saint Iohns Speech. 1640. p: 33. 1. H4 n 21. 22. 48.</note>) That in <hi>the 21 years of his Reigne, he unduly packed a
+Parliament, and by his extradordinary armed Guard of</hi> 4000: <hi>Che<g ref="char:EOLhyphen"/>ſhire
+Archers over-awed and forced it to Repeal the Parliaments of</hi>
+10 &amp;. 11 Ri<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h. 2. and to attaint and condemne the <hi>Duke of Glo<g ref="char:EOLhyphen"/>ceſter,
+Earle of Warwick,</hi> and <hi>Earle of Arundell</hi> (then likewiſe
+executed) <hi>of High Treaſon:</hi> After which <hi>adjourning the Parlia<g ref="char:EOLhyphen"/>ment
+to Shrewsbury,</hi>
+               <note n="*" place="margin">
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 2<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. R. 2. c. 12. 16. 1. H. 4. c. 3. Walſing<g ref="char:EOLhyphen"/>ham Hiſt. Angliae p. 394. Gra<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ton Holinſhed</note> 
+               <hi>he there ſubtilly procured an Act to paſſe by
+common conſent. That the power of the Parliament ſhould remaine
+in ſome few perſons, who (AFTER THE PARLIAMENT
+DISSOLVED) ſhould determine certaine petitions delivered, but
+not anſwered therein. By colour whereof, theſe Committees procee<g ref="char:EOLhyphen"/>ded
+to other things generally touching the Parliament, and that by the
+Kings appointment <hi>in derogation of the ſtate of the Parliament,
+and diſcommodity and pe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nicious example of the whole Realme.</hi>
+And by colour and authority thereof, he cauſed the Parliament Rolls
+to be altered, againſt the effect of the foreſaid grant For which cauſe
+the ſaid Parliament and all Acts and proceedings therein were nulled
+and declared void in</hi> 1. H. 4. c. 2. 3. This very preſident <hi>Mr-Prynne</hi>
+the <hi>Member</hi> cites in his <hi>Memento,</hi> p. 9<g ref="char:punc">▪</g> 10. as the neareſt p<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tterne
+he could meet with, parallell to the preſent <hi>ſitting Iunto.</hi> Who
+without any Act of Parliament, being not above the 9th. or 10th.
+part at moſt of the Commons Houſe, and ſitting under an Armed
+force, have taken upon them, not only the name and power of the
+<hi>whole Parliament,</hi> to alter, null, <hi>repeal Votes, Orders and Ordinan<g ref="char:EOLhyphen"/>ces
+made in a full and free Houſe, Vote out their fellow Members,
+and lay aſide the Lords Houſe,</hi> but likewiſe preſumed to repeal
+old, <hi>and make new Acts of Parliament,</hi> to erect a new <hi>High
+Court of Iuſtice</hi> to try, condemne and execute the King himſelfe
+without any witneſſes legally and publikely produced againſt
+him; to adjourn and put off the <hi>Terme</hi> it <hi>ſelfe</hi> to the great ob<g ref="char:EOLhyphen"/>ſtruction
+and delay of <hi>Juſtice,</hi> to order a new <hi>Great Seale of Eng<g ref="char:EOLhyphen"/>land,</hi>
+to be made without the <hi>Kings Effigies</hi> or <hi>Motto:</hi> to alter all
+the ancient <hi>Writs, formes and proceedings at the Common Law in the
+Kings name and Stile,</hi> to enact <hi>Commiſſions of Judges, Sheriffs
+<pb n="25" facs="tcp:115470:13"/>
+and Juſtices of Peace and the like to continue after the Kings death,</hi>
+which are abſolutely<note n="*" place="margin">Cook 7. Rep. 30. 31. Dyer 165. a.</note> 
+               <hi>null and expired</hi> by it: to enact and pro<g ref="char:EOLhyphen"/>claine
+it to be <hi>High Treaſon</hi> for any man to proclaime <hi>Prince
+Charles, King of England</hi> after his <hi>Fathers</hi> death (who is King of
+<hi>England, Scotland, France</hi> and <hi>Ireland</hi> immediatly after his <hi>Fathers
+execution,</hi> as is adjudged <hi>by all the Judges of England</hi> in <hi>Calums</hi> caſe
+Cook 7. f. 10. 11. and Cook 3. Inſtit. p. 7. 1. <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ac. ch. 1.) though bound
+thereto by the <hi>Common Law, the Oathes of Supremacy and Allegi<g ref="char:EOLhyphen"/>ance,
+the ſolemne League and Covenant,</hi> and the Statute of 1.
+<hi>Jacobi</hi> ch. 1. Wherein the <hi>Lords</hi> and <hi>Commons</hi> in full <hi>Parliament
+where <hi>All the whoſe body of the Realme and every Particular
+Member thereof,</hi> were either by perſon or repreſentative by the
+Lawes of the Realme deemed <hi>to be preſent,</hi>
+               </hi> did <hi>with all poſſible
+publike joy and acclamation, as <hi>A memoriall ſo all poſterities,</hi>
+               </hi> a<g ref="char:EOLhyphen"/>mong
+<hi>the Records of the High Court of Parliament <hi>for ever to
+endure of their Loyalty, obedience and hearty and humble <gap reason="illegible" resp="#TECH" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </hi>
+publiſh, declare and ENACT;</hi> That they being <hi>boun<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en there un<g ref="char:EOLhyphen"/>to
+both by the laws of God and Man <hi>did recognize and acknow<g ref="char:EOLhyphen"/>ledge;
+that the Imperiall Crowne of the Realme of England, and
+of all the Kingdomes, Dominions and Rights belonging to the
+ſame, did immediatly</hi> by inherent birth-right, and lawfull and
+undoubted Succeſſion diſcend and come to his <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſt excellent Ma<g ref="char:EOLhyphen"/>ieſty
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>being</hi> Lineally, Juſtly and lawfully ne<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t and  ſole Heire
+of the blood Royall of this Realme. <hi>And that by the goodneſſe of
+Almighty God and</hi> lawfull right of Diſcent, <hi>his Majeſty was of
+the Realmes and Kingdomes</hi> of England, Scotland France and
+Ireland <hi>the moſt mighty and potent</hi> King: and thereunto they
+did moſt humbly and faithfully ſubmit,</hi>
+               <note place="margin">NOTE.</note> 
+               <hi>and oblige themſelves,
+their News and Poſterities for ever, until the laſt drop of their
+bloods be ſpent: <hi>Beſeeching his Maj<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſty to accept of the ſame, as
+the firſt fruits in that High Court of Parliament, of</hi> their loyalty
+and faith to his Maieſty and his royal progeny and poſterity for
+ever. <hi>And to</hi>
+               </hi> Vote and declare <hi>High Treaſon,</hi> to be no <hi>Treaſon;</hi>
+and <hi>Loyalty</hi> and <hi>Allegiance</hi> it ſelfe, to be <hi>High Treaſon</hi>
+(contrary to all rules of Law, Juſtice, Honeſty, Religion, Reaſon,
+Conſcience and<note n="*" place="margin">1. H. 4. c. 10 1. <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 6. c. 1<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1 Ma<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iae c. 1. Cook. 3. Inſt<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. p. 2. 21. 22. 23.</note> 
+               <hi>expreſſe Acts of Parliament)</hi> to terrifie and
+ſcare poore <hi>ignorant people</hi> from their <hi>Loyalty</hi> and <hi>duties:</hi> when
+as all wiſe men admire, decide, ſcorne ſuch pittifull exorbitant <hi>Bulls</hi>
+and <hi>Bugbeares;</hi> which will affright themſelves moſt at laſt when
+<pb n="26" facs="tcp:115470:14"/>
+               <hi>Scelera, ſceleribus <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>enda, Licentia ſcelerum eſt quae regna inviſa
+tuetur;</hi> and armed violence be grown out of date; as they will (no
+doubt) ere long. And then this <hi>Iuncto,</hi> will wiſh with all their ſouls
+(but over late) they had harkned better to Mr. <hi>Prynnes</hi> timely <hi>M<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mento,</hi>
+which will then riſe up in judgement againſt them, and this
+<hi>Pamphletter,</hi> to condemne and leave them without the leaſt ex<g ref="char:EOLhyphen"/>cuſe.</p>
+            <p>Upon the whole matter then, it will appear to all the world. That
+Mr. <hi>Prynne,</hi> both as a <hi>Barreſter</hi> and <hi>Member</hi> is <hi>ſemper idem,</hi> and
+no <hi>Changling, turn-coat,</hi> or <hi>Apoſtate</hi> from his firſt principles and
+<hi>Engagements,</hi> as this perjured <hi>Pamphetter</hi> is; to whom he wiſheth
+more <hi>Grace, Truth, Honeſty,</hi> and leſſe <hi>Deceit, Falſhood</hi> and <hi>Hypo<g ref="char:EOLhyphen"/>criſy
+in his</hi> heart, and <hi>next Impreſſions,</hi> wherein he expects he will
+anſwer the <hi>principal Conſiderations</hi> in his <hi>Memento,</hi> with the <hi>Decla<g ref="char:EOLhyphen"/>rations,
+Remonſtrances, Proteſtations, Petitions, Promiſes of both
+Houſes, and the Solemn League and Covenant,</hi> therein recited, to
+which he hath not in this <hi>Pamphlet</hi> attempted to return the laſt
+ſhadow of an <hi>Anſwer,</hi> ſuch a worthy <hi>Champion</hi> hath he ſhewed him<g ref="char:EOLhyphen"/>ſelf,
+and ſo unable to encounter his <hi>Antagoniſt,</hi> Mr. <hi>Prynne,</hi> either as
+a <hi>Barreſter or Member</hi> of the <hi>Commons Houſe,</hi> Who having written
+more then any man in def<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce of the <hi>Soveraigne Power of Parlia<g ref="char:EOLhyphen"/>ments
+and Kingdoms,</hi> conſidered only as they are <hi>rightly conſtituted
+and qualified; is</hi> thereby engaged more then any man, to oppoſe
+the <hi>abuſes extravagances, &amp; unparliamentary, diſloyall Proceedings,</hi>
+of any, who ſhall preſume to wreſt, abuſe and pervert his <hi>Loyall Or<g ref="char:EOLhyphen"/>thodox
+writings</hi> contrary to his <hi>ſence</hi> and <hi>meaning</hi> to juſtifie their
+<hi>unwarrantable, illegall, Tyrannicall</hi> and <hi>Treaſonable Actions,</hi> as this
+<hi>Pamphletter,</hi> and ſome others of late have done.</p>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <p>COl. <hi>P.</hi> is credibly reported, to be the Author of <hi>Prynne against
+Prynne,</hi> by divers; yet others report, that his Sonne in Law Mr
+<hi>Abb<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t</hi> (a Member) is the <hi>Author,</hi> and the <hi>Col.</hi> only the ſurperviſer
+of it at the preſſe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> however it is agreed by all that one of them is
+the Author; and the Col. owning it at the preſſe, I muſt repute him
+the Father of this ſpurious birth.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:115470:14"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
